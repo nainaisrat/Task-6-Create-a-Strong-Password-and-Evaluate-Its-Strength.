@@ -1,5 +1,5 @@
 
-# Task 6: Password Strength Evaluation
+# Task 6: Create a Strong Password and Evaluate Its Strength
 
 ## Objective
 To understand what makes a password strong and test various passwords using online strength checkers.
@@ -13,7 +13,7 @@ To understand what makes a password strong and test various passwords using onli
 ## Results
 | Password              | Strength Score | Complexity                   
 |-----------------------|--------------- |------------------------
-| password123           |  43%           |Good        |     
+| password123           |  43%           | Good        |     
 | Summer2025!           |  100%          | Very Strong |
 | Br!ght&SunnyD@ys24    |  100%          | Very Strong |
 | ^Dr@g0n$&M@g1c^!      |  100%          | Very Strong |       
@@ -39,6 +39,4 @@ https://github.com/nainaisrat/Task-6-Create-a-Strong-Password-and-Evaluate-Its-S
 https://github.com/nainaisrat/Task-6-Create-a-Strong-Password-and-Evaluate-Its-Strength./blob/main/3.png
 https://github.com/nainaisrat/Task-6-Create-a-Strong-Password-and-Evaluate-Its-Strength./blob/main/4.png
 
-## References
-- Bitwarden Password Strength Tester
-- Microsoft Password Guidelines
+
